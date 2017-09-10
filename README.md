@@ -14,6 +14,8 @@ end
 
 Create a new Ruby file called 'methods-practice.rb' with the `touch` command in your command line. Open up the file and code the following functions. Make sure to test them out by calling the function and then running `ruby methods-practice.rb` from the command line!
 
+**For each of the methods, you should *return* the values rather than simply using puts to print them out** 
+
 * 1) Build a method `timesByOneThousand` that takes an integer and multiplies it by 1000. (We started this one for you)
 
 ```
